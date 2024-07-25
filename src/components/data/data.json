@@ -1,0 +1,185 @@
+[
+    {
+        "id": 1,
+        "titulo": "Zapatilla DC",
+        "descripcion": "Zapatillas DC, cómodas y originales",
+        "categoria": "Deportivas",
+        "imagen": "https://cdn.pixabay.com/photo/2016/06/03/17/35/shoes-1433925_1280.jpg",
+        "precio": 45,
+        "stock": 10
+    },
+    {
+        "id": 2,
+        "titulo": "Zapatilla SoulMusic ",
+        "descripcion": "Zapatillas SoulMusic edición limitada",
+        "categoria": "Deportivas",
+        "imagen": "https://cdn.pixabay.com/photo/2024/05/28/18/20/ai-generated-8794461_1280.jpg",
+        "precio": 10,
+
+        "stock": 10
+    },
+    {
+        "id": 3,
+        "titulo": "Zapatilla Ocean",
+        "descripcion": "Zapatillas de la diseñadora Janet Olson",
+        "categoria": "Deportivas",
+        "imagen": "https://cdn.pixabay.com/photo/2024/06/01/06/52/wave-sneakers-8801658_640.jpg",
+        "precio": 15,
+
+        "stock": 10
+    },
+    {
+        "id": 4,
+        "titulo": "Zapatilla Fire",
+        "descripcion": "Zapatillas de la diseñadora Janet Olson",
+        "categoria": "Deportivas",
+        "imagen": "https://cdn.pixabay.com/photo/2024/06/01/06/52/sneakers-8801656_640.jpg",
+        "precio": 15,
+
+        "stock": 10
+    },
+    {
+        "id": 5,
+        "titulo": "Zapatilla DC Fantasy",
+        "descripcion": "Zapatillas DC, cómodas y originales",
+        "categoria": "Deportivas",
+        "imagen": "https://cdn.pixabay.com/photo/2016/11/19/20/08/sneakers-1840909_640.jpg",
+        "precio": 45,
+        "stock": 10
+    },
+    {
+        "id": 6,
+        "titulo": "Camisetas de baloncesto",
+        "descripcion": "Camisetas de basquet tallas: XS a XXXXL",
+        "categoria": "Baloncesto",
+        "imagen": "https://media.istockphoto.com/id/1340903444/es/foto/maqueta-de-camiseta-sin-mangas-en-blanco-en-vistas-delanteras-y-traseras.jpg?s=612x612&w=0&k=20&c=4zJN78-Wys-SIkwzaYhUa-nAa8TN37KYKxBnqyLQ8rE=",
+        "precio": 15,
+        "stock": 10
+    },
+    {
+        "id": 7,
+        "titulo": "Camisetas de baloncesto",
+        "descripcion": "Camisetas de basquet tallas: XS a XXXXL",
+        "categoria": "Baloncesto",
+        "imagen": "https://media.istockphoto.com/id/1322763124/es/foto/maqueta-de-camiseta-sin-mangas-de-cuello-en-v-en-blanco-en-las-vistas-frontal-lateral-y-trasera.jpg?s=612x612&w=0&k=20&c=Ka5D9sfDGQkY9TRpixwHuKkkl1pNdkWXvkDcOB1TKaw=",
+        "precio": 15,
+        "stock": 10
+    },
+    {
+        "id": 8,
+        "titulo": "Camisetas de baloncesto",
+        "descripcion": "Camisetas de basquet tallas: XS a XXXXL",
+        "categoria": "Baloncesto",
+        "imagen": "https://media.istockphoto.com/id/1340903759/es/foto/maqueta-de-camiseta-sin-mangas-en-blanco-en-vistas-delanteras-y-traseras.jpg?s=612x612&w=0&k=20&c=Y1NF3holSKFVFFuHLxXPaa514Cwz7oH10lGg-yNwE5s=",
+        "precio": 15,
+        "stock": 10
+    },
+    {
+        "id": 9,
+        "titulo": "Camiseta de fútbol",
+        "descripcion": "Camisetas de fútbol tallas: XS a XXXXL",
+        "categoria": "Fútbol",
+        "imagen": "https://media.istockphoto.com/id/1313184509/es/foto/maqueta-de-camiseta-de-cuello-masculino-en-vistas-delanteras-laterales-y-traseras.jpg?s=612x612&w=0&k=20&c=HiGJ-y-_0H0Vzfrr_1Tu1tAO4qCnAN4EduSOLqPZXzE=",
+        "precio": 20,
+        "stock": 10
+    },
+    {
+        "id": 10,
+        "titulo": "Camiseta de fútbol",
+        "descripcion": "Camisetas de fútbol tallas: XS a XXXXL",
+        "categoria": "Fútbol",
+        "imagen": "https://media.istockphoto.com/id/1327342200/es/foto/maqueta-de-camiseta-de-f%C3%BAtbol-masculino-en-las-vistas-frontal-lateral-y-trasera.jpg?s=612x612&w=0&k=20&c=g3XOcUzHep096S5YHse29RDcVUr6egRclNFCBlDiHNs=",
+        "precio": 20,
+        "stock": 10
+    },
+    {
+        "id": 11,
+        "titulo": "Camiseta de fútbol",
+        "descripcion": "Camisetas de fútbol tallas: XS a XXXXL",
+        "categoria": "Fútbol",
+        "imagen": "https://media.istockphoto.com/id/1329967286/es/foto/maqueta-de-camiseta-de-f%C3%BAtbol-masculino-en-vistas-frontales-y-traseras.jpg?s=612x612&w=0&k=20&c=ON5u58drxBnc7PcE9oCuVLy1IdRSGp0I6s4hlfOPUsM=",
+        "precio": 20,
+        "stock": 10
+    },
+    {
+        "id": 12,
+        "titulo": "Botas de fútbol Light",
+        "descripcion": "Botas de fútbol de la talla 32 a la talla 48",
+        "categoria": "Fútbol",
+        "imagen": "https://media.istockphoto.com/id/671028562/es/foto/zapatos-de-cuero-negro-del-balompi%C3%A9-o-f%C3%BAtbol-botas-aisladas-sobre-fondo-blanco.jpg?s=612x612&w=0&k=20&c=wKbhoBX4vJqEiYtQz-q9bYs3sqTQvBmPiyGn8h3fJWA=",
+        "precio": 70,
+        "stock": 10
+    },
+    {
+        "id": 13,
+        "titulo": "Botas de fútbol Red Fire",
+        "descripcion": "Botas de fútbol de la talla 32 a la talla 48",
+        "categoria": "Fútbol",
+        "imagen": "https://media.istockphoto.com/id/1421447511/es/foto/zapatillas-de-f%C3%BAtbol-rojas.jpg?s=612x612&w=0&k=20&c=S9Md0DUosaTZMHpBLo8cqchalGQpERD4zq3hjXhD-_A=",
+        "precio": 66,
+        "stock": 10
+    },
+    {
+        "id": 14,
+        "titulo": "Botas de fútbol Clasic",
+        "descripcion": "Botas de fútbol de la talla 32 a la talla 48",
+        "categoria": "Fútbol",
+        "imagen": "https://media.istockphoto.com/id/508461644/es/foto/zapatos-de-f%C3%BAtbol.jpg?s=612x612&w=0&k=20&c=40-M6xuSi5NgkFbFyktDGwloRGw_Gyr7gYEneR5maVY=",
+        "precio": 94,
+        "stock": 10
+    },
+    {
+        "id": 15,
+        "titulo": "Botas de fútbol Orange Team",
+        "descripcion": "Botas de fútbol de la talla 32 a la talla 48",
+        "categoria": "Fútbol",
+        "imagen": "https://media.istockphoto.com/id/479974988/es/foto/botas-naranjas-de-f%C3%BAtbol-americano-sobre-fondo-blanco.jpg?s=612x612&w=0&k=20&c=EMdi53Bat2DoCgDzjsAEW7St0lAs_S0hO3ui9nbHsEY=",
+        "precio": 90,
+        "stock": 10
+    },
+    {
+        "id": 16,
+        "titulo": "Botas de fútbol Adidas Clasic",
+        "descripcion": "Botas de fútbol de la talla 32 a la talla 48",
+        "categoria": "Fútbol",
+        "imagen": "https://media.istockphoto.com/id/458095223/es/foto/zapato-de-f%C3%BAtbol.jpg?s=612x612&w=0&k=20&c=o0b1jaRyAVHkwn68H5uBjgUmPY9hQuCBq6LBepodytQ=",
+        "precio": 60,
+        "stock": 10
+    },
+    {
+        "id": 17,
+        "titulo": "Patines Air",
+        "descripcion": "Patines sobre hielo talla de 34 a 47",
+        "categoria": "Hockey",
+        "imagen": "https://media.istockphoto.com/id/173938702/es/foto/pat%C3%ADn-sobre-hielo.jpg?s=612x612&w=0&k=20&c=eCf0EUd7nPgASv6MryD-0iHqnRzOGaMuYt4UZsTn4ws=",
+        "precio": 80,
+        "stock": 10
+    },
+    {
+        "id": 18,
+        "titulo": "Stick de Hockey",
+        "descripcion": "Stick de Hockey diferentes tallas, fibra de carbono",
+        "categoria": "Hockey",
+        "imagen": "https://media.istockphoto.com/id/470750108/es/foto/palo-de-hockey-aislado-sobre-fondo-blanco.jpg?s=612x612&w=0&k=20&c=ALIZ2ylqQ44l37ejPhh84rqe2nxN-xCoT63w66KcgNQ=",
+        "precio": 16,
+        "stock": 10
+    },
+    {
+        "id": 19,
+        "titulo": "Balón de fútbol",
+        "descripcion": "Balon de fútbol oficial Liga Santander",
+        "categoria": "Fútbol",
+        "imagen": "https://images.pexels.com/photos/47730/the-ball-stadion-football-the-pitch-47730.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "precio": 65,
+        "stock": 10
+    },
+    {
+        "id": 20,
+        "titulo": "Balón baloncesto",
+        "descripcion": "Balón baloncesto oficial NBA",
+        "categoria": "Baloncesto",
+        "imagen": "https://images.pexels.com/photos/3152045/pexels-photo-3152045.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "precio": 54,
+        "stock": 10
+    }
+]
