@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/shop_firebase/static/css/main.3253fb17.css",
+    "main.js": "/shop_firebase/static/js/main.cbe3b235.js",
+    "index.html": "/shop_firebase/index.html",
+    "main.3253fb17.css.map": "/shop_firebase/static/css/main.3253fb17.css.map",
+    "main.cbe3b235.js.map": "/shop_firebase/static/js/main.cbe3b235.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3253fb17.css",
+    "static/js/main.cbe3b235.js"
+  ]
+}
